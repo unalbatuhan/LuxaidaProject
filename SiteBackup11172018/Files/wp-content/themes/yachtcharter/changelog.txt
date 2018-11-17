@@ -1,0 +1,53 @@
+= V1.0 - 01.11.2016 =
+* Initial release
+
+= V1.1 - 14.11.2016 =
+* Fixed category bug
+
+= V1.2 - 05.12.2016 =
+* Added category functionality to Yacht Charter Carousel
+
+= V1.3 - 13.12.2016 =
+* Added navigation to Testimonials carousel
+* Added a wider variety of color customization options
+* Added easier font selection method in theme options
+* Added alternative center aligned header style 
+* Added alternative center align footer style
+
+= V1.4 - 30.12.2016 =
+* Fixed booking form content bug
+
+= V1.4.1 - 10.01.2017 =
+* Fixed shortcode plugin language translation support
+
+= V1.4.2 - 15.01.2017 =
+* Fixed booking form content bug
+
+= V1.4.3 - 29.01.2017 =
+* Fixed lightbox JS bug
+
+= V1.4.4 - 03.02.2017 =
+* Added yacht sales carousel
+
+= V1.4.5 - 16.02.2017 =
+* Added currency symbol position option
+
+= V1.4.6 - 28.02.2017 =
+* Fixed page featured image bug
+
+= V1.4.6.1 - 24.04.2017 =
+* Added child theme to package
+* Fixed breadcrumbs bug
+
+= V1.4.6.2 - 20.05.2017 =
+* Fixed responsive tables bug
+* Fixed single post sidebar bug
+
+= V1.5 - 23.05.2017 =
+* Added better functionality for the Yacht Charter post type excerpt
+
+= V1.5.1 - 19.06.2017 =
+* Fixed breadcrumbs translation bug
+
+= V1.5.2 - 06.10.2017 =
+* Added better functionality for the Location post type excerpt

@@ -1,0 +1,67 @@
+<wpml-config>
+	
+	<custom-types>
+		<custom-type translate="1">locations</custom-type>
+		<custom-type translate="1">testimonials</custom-type>
+		<custom-type translate="1">yacht_charters</custom-type>
+		<custom-type translate="1">yacht_sales</custom-type>
+	</custom-types>
+	
+    <admin-texts>
+		<key name="Yacht Charter_options">
+			<key name="site-layout-style">
+			<key name="site-header-style">
+			<key name="site-footer-style">
+			<key name="currency-position">
+			<key name="booking-url">
+			<key name="google-map-api-key">
+			<key name="404-background">
+			<key name="top-left-address">
+			<key name="top-left-phone">
+			<key name="top-left-open-times">
+			<key name="top-left-email">
+			<key name="top-right-button-text">
+			<key name="top-right-button-url">
+			<key name="top-right-button-link-target">
+			<key name="footer-message">
+			<key name="yacht_charters_slug">
+			<key name="yacht_sales_slug">
+			<key name="locations_slug">
+			<key name="testimonials_slug">
+			<key name="logo-image">
+			<key name="main-color">
+			<key name="secondary-color">
+			<key name="secondary-color-border">
+			<key name="mobile-nav-color">
+			<key name="header-background-color">
+			<key name="header-text-color">
+			<key name="header-border-color">
+			<key name="footer-background-color">
+			<key name="footer-bottom-background-color">
+			<key name="footer-title-text-color">
+			<key name="footer-text-color">
+			<key name="footer-bottom-text-color">
+			<key name="google_font_name_1">
+			<key name="google_font_name_2">
+			<key name="page-header-image">
+			<key name="custom_css">
+			<key name="top-right-social-link-1">
+			<key name="top-right-social-link-2">
+			<key name="social-link-target">
+			<key name="facebook-icon">
+			<key name="flickr-icon">
+			<key name="googleplus-icon">
+			<key name="instagram-icon">
+			<key name="pinterest-icon">
+			<key name="skype-icon">
+			<key name="soundcloud-icon">
+			<key name="tumblr-icon">
+			<key name="twitter-icon">
+			<key name="vimeo-icon">
+			<key name="vine-icon">
+			<key name="yelp-icon">
+			<key name="youtube-icon">
+		</key>
+    </admin-texts>
+
+</wpml-config>

@@ -1,0 +1,345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yacht Charter Shortcodes & Post Types\n"
+"POT-Creation-Date: 2018-02-09 17:02+0900\n"
+"PO-Revision-Date: 2018-02-09 17:02+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/pagination.php:18 includes/pagination.php:42
+#: includes/shortcodes/locations_page.php:110
+#: includes/shortcodes/news_page.php:156
+#: includes/shortcodes/services_page.php:111
+#: includes/shortcodes/testimonials_page.php:95
+#: includes/shortcodes/yacht_charter_page.php:185
+#: includes/shortcodes/yacht_sales_page.php:198
+msgid "&larr; Older posts"
+msgstr ""
+
+#: includes/pagination.php:19 includes/pagination.php:43
+#: includes/shortcodes/locations_page.php:111
+#: includes/shortcodes/news_page.php:157
+#: includes/shortcodes/services_page.php:112
+#: includes/shortcodes/testimonials_page.php:96
+#: includes/shortcodes/yacht_charter_page.php:186
+#: includes/shortcodes/yacht_sales_page.php:199
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: includes/post-types/locations.php:8
+#: includes/templates/single-locations.php:9
+msgid "Locations"
+msgstr ""
+
+#: includes/post-types/locations.php:9
+#: includes/post-types/yacht_charter.php:32
+#: includes/post-types/yacht_sales.php:32
+#: includes/shortcodes/accommodation_search.php:14
+msgid "Location"
+msgstr ""
+
+#: includes/post-types/locations.php:10
+msgid "Add Location"
+msgstr ""
+
+#: includes/post-types/locations.php:11
+msgid "Add New Location"
+msgstr ""
+
+#: includes/post-types/locations.php:17
+msgid "locations"
+msgstr ""
+
+#: includes/post-types/locations.php:45
+#: includes/post-types/yacht_charter.php:55
+msgid "Short Content"
+msgstr ""
+
+#: includes/post-types/testimonials.php:8
+#: includes/templates/single-testimonials.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:9
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:10
+msgid "Add Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:17
+msgid "testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:45
+msgid "Guest Name"
+msgstr ""
+
+#: includes/post-types/testimonials.php:51
+msgid "Other Details"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:8
+#: includes/post-types/yacht_charter.php:9
+#: includes/templates/single-yacht-charter.php:9
+msgid "Yacht Charter"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:10
+msgid "Add Yacht Charter"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:11
+msgid "Add New Yacht Charter"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:17
+msgid "yacht_charters"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:27
+msgid "yacht_charter-type"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:27
+msgid "Yacht Charter Type"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:32
+msgid "yacht_charter-location"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:61
+#: includes/post-types/yacht_sales.php:55
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:67
+#: includes/post-types/yacht_sales.php:61
+msgid "Price"
+msgstr ""
+
+#: includes/post-types/yacht_charter.php:73
+msgid "Price Scheme"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:8 includes/post-types/yacht_sales.php:9
+#: includes/templates/single-yacht-sales.php:9
+msgid "Yacht Sales"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:10
+msgid "Add Yacht Sales"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:11
+msgid "Add New Yacht Sales"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:17
+msgid "yacht_sales"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:27
+msgid "yacht_sales-type"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:27
+msgid "Yacht Sales Type"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:32
+msgid "yacht_sales-location"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:67
+msgid "Variable Form Option Title #1"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:73
+msgid "Variable Form Options #1"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:79
+msgid "Variable Form Option Title #2"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:85
+msgid "Variable Form Options #2"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:91
+msgid "Variable Form Option Title #3"
+msgstr ""
+
+#: includes/post-types/yacht_sales.php:97
+msgid "Variable Form Options #3"
+msgstr ""
+
+#: includes/shortcodes/accommodation_search.php:27
+msgid "Accommodation Type"
+msgstr ""
+
+#: includes/shortcodes/accommodation_search.php:42
+msgid "Keywords"
+msgstr ""
+
+#: includes/shortcodes/accommodation_search.php:45
+msgid "Search"
+msgstr ""
+
+#: includes/shortcodes/googlemap.php:120
+msgid ""
+"Please enter a valid Google Map API key in the theme options \"General\" "
+"section"
+msgstr ""
+
+#: includes/shortcodes/locations_page.php:77
+#: includes/shortcodes/news_page.php:120 includes/shortcodes/news_page.php:122
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/locations_page.php:91
+msgid "No locations have been added yet"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:101
+msgid "By"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:106
+msgid "No Comments"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:106
+msgid "1 Comment"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:106
+msgid "% Comments"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:106
+msgid "Comments Off"
+msgstr ""
+
+#: includes/shortcodes/news_page.php:140
+msgid "No news has been added yet"
+msgstr ""
+
+#: includes/shortcodes/reviews_carousel.php:42
+msgid "No reviews found."
+msgstr ""
+
+#: includes/shortcodes/services_page.php:95
+msgid "No service have been added yet"
+msgstr ""
+
+#: includes/shortcodes/testimonials_page.php:79
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: includes/shortcodes/toggle.php:6 includes/shortcodes/toggle.php:12
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes/yacht_charter_carousel.php:133
+#: includes/shortcodes/yacht_charter_page.php:138
+#: includes/shortcodes/yacht_sales_carousel.php:131
+#: includes/shortcodes/yacht_sales_page.php:129
+msgid "New"
+msgstr ""
+
+#: includes/shortcodes/yacht_charter_page.php:155
+#: includes/templates/single-yacht-charter.php:133
+msgid "Book Now"
+msgstr ""
+
+#: includes/shortcodes/yacht_charter_page.php:169
+#: includes/shortcodes/yacht_sales_carousel.php:187
+#: includes/shortcodes/yacht_sales_page.php:182
+msgid "No yachts have been added yet"
+msgstr ""
+
+#: includes/shortcodes/yacht_sales_carousel.php:158
+#: includes/shortcodes/yacht_sales_page.php:157
+msgid "Price:"
+msgstr ""
+
+#: includes/shortcodes/yacht_sales_carousel.php:168
+#: includes/shortcodes/yacht_sales_page.php:166
+#: includes/templates/single-yacht-sales.php:136
+msgid "Buy Now"
+msgstr ""
+
+#: includes/templates/single-locations.php:9
+#: includes/templates/single-testimonials.php:9
+#: includes/templates/single-yacht-charter.php:9
+#: includes/templates/single-yacht-sales.php:9
+msgid "Home"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:54
+msgid "Book This Yacht"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:78
+msgid "Per Day"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:80
+msgid "Per Night"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:82
+msgid "Per Week"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:84
+msgid "Per Month"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:96
+msgid "From"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:104
+msgid "To"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:111
+msgid "Guests"
+msgstr ""
+
+#: includes/templates/single-yacht-charter.php:148
+#: includes/templates/single-yacht-sales.php:151
+msgid "Contact Us"
+msgstr ""
+
+#: includes/templates/single-yacht-sales.php:54
+msgid "Buy This Yacht"
+msgstr ""
+
+#: includes/templates/taxonomy-yacht-categories.php:19
+msgid ""
+"To create a yacht sales/charter category page, please go to \"Pages > Add New"
+"\", select the \"Yacht Charter Page\" or \"Yacht Sales Page\" element in "
+"Visual Composer, and enter your category slug in the \"Category\" field."
+msgstr ""

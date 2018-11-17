@@ -1,0 +1,9 @@
+2018-11-05T00:11:15+00:00 CRITICAL /home/lux3353/public_html/wp-content/plugins/woocommerce/includes/class-wc-geolocation.php dosyasında 268 numaralı satırda Uncaught Error: Class 'PharData' not found in /home/lux3353/public_html/wp-content/plugins/woocommerce/includes/class-wc-geolocation.php:268
+Stack trace:
+#0 /home/lux3353/public_html/wp-includes/class-wp-hook.php(286): WC_Geolocation::update_database()
+#1 /home/lux3353/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/lux3353/public_html/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#3 /home/lux3353/public_html/wp-cron.php(126): do_action_ref_array('woocommerce_geo...', Array)
+#4 {main}
+  thrown
+

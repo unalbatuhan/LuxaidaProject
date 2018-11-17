@@ -1,0 +1,173 @@
+/* The dark background areas, default #1a1f2b */
+.top-bar-wrapper,
+.mobile-navigation-wrapper,
+.mobile-navigation-wrapper, 
+.mobile-navigation-wrapper ul li li a, 
+.mobile-navigation-wrapper ul li li li a,
+.about-us-block,
+.our-yachts-sections-dark,
+.booking-form-right,
+.footer,
+.advanced-search-form form,
+.yacht-charter-sale-form form,
+.content-wrapper table th,
+#ui-datepicker-div,
+.content-wrapper .search-results-form {
+	background: #1a1f2b;
+}
+
+/* The main bright highlight colour, default #85a5cc */
+.logo h2:before,
+.navigation li ul li a:hover,
+.top-right-button,
+.rev-custom-caption-1 .title-block1,
+.rev-custom-caption-2 .title-block1,
+.slideshow-button-photos,
+.slideshow-button-about,
+.title-block2,
+.title-block7,
+.title-block4,
+.title-block5,
+.title-block8,
+.title-block3,
+.button0,
+.yacht-block-image .new-icon,
+.owl-theme .owl-dots .owl-dot span,
+.button-view-yachts,
+.button-get-in-touch,
+.news-m,
+form button,
+.title-block6,
+.footer-bottom,
+.pp_close,
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.content-wrapper .accordion h4:before,
+.toggle h4:before,
+.widget .contact-details-widget .cdw-address:before,
+.widget .contact-details-widget .cdw-time:before,
+.widget .contact-details-widget .cdw-phone:before,
+.widget .contact-details-widget .cdw-email:before,
+#ui-datepicker-div a:hover,
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.button2,
+.button4,
+.button6,
+.news-read-more,
+.more-link,
+.content-wrapper .search-results-list li:before,
+.main-content .social-links li i,
+.wp-pagenavi span.current, 
+.wp-pagenavi a:hover,
+#submit-button,
+.wpcf7-submit,
+.vc_tta-panels .vc_tta-panel-title:before,
+.toggle h4:before,
+.footer table th,
+.sidebar-content table th,
+.post-pagination span,
+.post-pagination span:hover,
+.newsletter-submit {
+	background: #85a5cc;
+}
+
+.pp_close {
+	background: url("../images/close.png") no-repeat center #85a5cc;
+}
+
+.tnp-widget input[type="submit"] {
+	background: #85a5cc !important; 
+}
+
+.navigation li ul,
+.header-style-2 .navigation > ul > li.current-menu-item,
+.header-style-2 .navigation > ul > li.current_page_item,
+.header-style-2 .navigation > ul > li:hover {
+	border-top: #85a5cc 3px solid;
+}
+
+.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+	border-top: #85a5cc 4px solid !important;
+}
+
+.home-icon-wrapper .yachtcharter-home-icon,
+.home-icon-wrapper-2 .yachtcharter-home-icon,
+.sticky {
+	border: #85a5cc 3px solid;
+}
+
+.home-icon-wrapper .yachtcharter-home-icon:after {
+	border-top-color: #85a5cc;
+}
+
+.yachtcharter-home-icon i,
+.content-wrapper .yacht-block ul li:before,
+.content-wrapper .testimonial-wrapper p span.yachtcharter-open-quote,
+.content-wrapper .testimonial-wrapper p span.yachtcharter-close-quote,
+.content-wrapper .testimonial-wrapper div span.yachtcharter-open-quote,
+.content-wrapper .testimonial-wrapper div span.yachtcharter-close-quote,
+.content-wrapper p a,
+.booking-form-wrapper p a,
+.footer ul li:before,
+.widget ul li:after,
+.content-wrapper ul li:before,
+.news-block-wrapper .news-block-content .news-meta .nm-news-author:before,
+.news-block-wrapper .news-block-content .news-meta .nm-news-date:before,
+.news-block-wrapper .news-block-content .news-meta .nm-news-category:before,
+.news-block-wrapper .news-block-content .news-meta .nm-news-comments:before {
+	color: #85a5cc;
+}
+
+.owl-theme .owl-dots .owl-dot span,
+.owl-theme .owl-dots .owl-dot.active span {
+	border: 2px solid #85a5cc;
+}
+
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.wp-pagenavi span.current, 
+.wp-pagenavi a:hover,
+.post-pagination span,
+.post-pagination span:hover,
+.footer .tagcloud a {
+	border: #85a5cc 1px solid;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-state-active {
+	border-top: #85a5cc 4px solid;
+}
+
+/* The faint border colour overlayed on the dark background colour, default #2f3545 */
+.content-wrapper .yacht-charter-sale-form h3 {
+	border-top: #2f3545 1px solid;
+	border-bottom: #2f3545 1px solid;
+}
+
+.yacht-charter-sale-form h3 span {
+	border-top: #2f3545 1px solid;
+}
+
+.ui-datepicker-calendar tbody tr td a,
+#ui-datepicker-div .ui-datepicker-calendar tbody tr td span {
+	border-right: #2f3545 1px solid;
+	border-bottom: #2f3545 1px solid;
+}
+
+.ui-datepicker-calendar thead tr th {
+	border-top: #2f3545 1px solid;
+	border-bottom: #2f3545 1px solid;
+}
+
+/* The mobile navigation background colour, default #272f43  */
+.mobile-navigation-wrapper ul a {
+	border-top: #272f43 1px solid;
+}
+
+.mobile-navigation-wrapper ul a, .mobile-navigation-wrapper ul li li a:hover, .mobile-navigation-wrapper ul li li li a:hover {
+	background: #272f43;
+}
